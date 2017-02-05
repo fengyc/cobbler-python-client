@@ -1,0 +1,9 @@
+# python
+*.pyc
+*.pyo
+
+# virtualenv
+env/
+
+# IDE
+.idea/

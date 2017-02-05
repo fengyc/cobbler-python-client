@@ -1,0 +1,4 @@
+tox
+pytest
+pytest-flake8
+sphinx
