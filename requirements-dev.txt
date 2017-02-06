@@ -1,4 +1,4 @@
 tox
 pytest
-pytest-flake8
+flake8
 sphinx
